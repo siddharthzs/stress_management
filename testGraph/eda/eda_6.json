@@ -1,1 +1,1 @@
-{"type": "line", "title": {"text": "Change in Eelectrodermal Activity(EDA) in 30 seconds"}, "series": [{"values": ["EDA"]}]}
+{"type": "line", "title": {"text": "Change in Eelectrodermal Activity(EDA) in 30 seconds"}, "plot": {"aspect": "spline"}, "scale-x": {"min-value": "0", "max-value": "32"}, "series": [{"values": ["EDA"]}]}

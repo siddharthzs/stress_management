@@ -1,1 +1,1 @@
-{"type": "line", "title": {"text": "Change in Blood Volume Pulse(BVP) in 30 seconds"}, "series": [{"values": ["BVP"]}]}
+{"type": "line", "title": {"text": "Change in Blood Volume Pulse(BVP) in 30 seconds"}, "plot": {"aspect": "spline"}, "scale-x": {"min-value": "0", "max-value": "32"}, "series": [{"values": ["BVP"]}]}
